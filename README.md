@@ -1,4 +1,4 @@
-# Batch-Chorales
+# Bach-Chorales
 
 Bach chorales, also known as Bach chorales or Bach's chorales, refer to a collection of musical compositions created by the renowned composer Johann Sebastian Bach. These compositions are typically short, harmonically rich hymn settings that were commonly used in Lutheran worship services during Bach's time.
 
